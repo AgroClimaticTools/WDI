@@ -1,5 +1,5 @@
 # Getting Started 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3236405.svg)](http://doi.org/10.5281/zenodo.3236419)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3236419.svg)](http://doi.org/10.5281/zenodo.3236419)
 - [Overview](#Overview)
 - [Installation](#Installation)
 - [Cite As](#Cite-as)
@@ -14,7 +14,7 @@ The tool is easy to install in all the versions of Windows and does not require 
 ### Cite as
 Agro-Climatic Tools. (2019, May 31). AgroClimaticTools/WDI: Weather Data Interpolator (Version v2.3.0). Zenodo. http://doi.org/10.5281/zenodo.3236405
 
-For more options, please check [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3236405.svg)](http://doi.org/10.5281/zenodo.3236419).
+For more options, please check [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3236419.svg)](http://doi.org/10.5281/zenodo.3236419).
 
 ### License
 Copyright © 2019 Weather Data Interpolator  
